@@ -7,10 +7,8 @@
 //  Copyright (c) 2014 Davut Ucar. All rights reserved.
 //
 //  Name:               Davut Ucar
-//  Student no:         10011050
 //  Date:               03.12.2014
 //  E-Mail:             davutucar@gmail.com
-//  Compiler used:      GCC
 //  IDE:                Xcode 6.1.1
 //  Operating System    Mac OS Yosemite
 
